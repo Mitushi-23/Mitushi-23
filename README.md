@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mitushi Agrawal</h1>
-- 🔭 I’m currently working on **enhancing my skills**
+- 🔭 I’m currently working on enhancing my skills
 
 - 🌱 I’m currently learning **OOPs,DSA,JS**
 
 - 👯 I’m interested in WebD,AI,ML,CP,AppD
 
-- 👨‍💻 All of my projects are available at [https://mitushi-23.github.io/My-portfolio/](https://mitushi-23.github.io/My-portfolio/)
+- 👨‍💻 About Me [https://mitushi-23.github.io/My-portfolio/](https://mitushi-23.github.io/My-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
