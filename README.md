@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitushi Agrawal</h1>
 - 🔭 I’m currently working on enhancing my skills
 
-- 🌱 I’m currently learning **OOPs,DSA,JS**
+- 🌱 I’m currently learning **OOPs,DSA,React JS**
 
 - 👯 I’m interested in WebD,AI,ML,CP,AppD
 
