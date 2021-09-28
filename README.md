@@ -21,7 +21,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitushi-23&show_icons=true&locale=en&layout=compact" alt="mitushi-23" /></p>
+<p><img align="left" ?theme="dark" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitushi-23&show_icons=true&locale=en&layout=compact" alt="mitushi-23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitushi-23&show_icons=true&locale=en" alt="mitushi-23" /></p>
 
