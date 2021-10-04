@@ -6,7 +6,7 @@
 
 - 👯 I’m interested in WebD,AI,ML,CP,AppD
 
-- 👨‍💻 About Me [https://mitushi-23.github.io/My-portfolio/](https://mitushi-23.github.io/My-portfolio/)
+- 👨‍💻 [About Me](https://mitushi-23.github.io/My-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
