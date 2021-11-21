@@ -21,7 +21,7 @@
 | Project Name | Description |
 | ------------- | ------------- |
 | [My Portfolio](https://mitushi-23.github.io/My-portfolio/)  | Portfolio Website |
-| [Tic Tac Toe](https://github.com/Mitushi-23/Tic-Tac-Toe)  | Tic-Tac-Toe Game for Single and Multiplayers  |
+| [Tic Tac Toe](https://mitushi-23.github.io/Tic-Tac-Toe/)  | Tic-Tac-Toe Game for Single and Multiplayers  |
 | [BreakOut](https://mitushi-23.github.io/BreakOut/)  | A BreakOut game  |  
 | [Digital Clock](https://digital-timeclock.netlify.app/)  | Can Browse time for any Country |  
 | [Analog Clock](https://mitushi-23.github.io/Analog-Clock/)  | Shows the time |  
