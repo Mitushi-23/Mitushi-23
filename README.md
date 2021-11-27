@@ -26,6 +26,7 @@
 | [Digital Clock](https://digital-timeclock.netlify.app/)  | Can Browse time for any Country |  
 | [Analog Clock](https://mitushi-23.github.io/Analog-Clock/)  | Shows the time |  
 | [My TextApp](https://mytextapp.netlify.app/) | Helps to convert the text to different cases, copy text and removes extra spaces  |  
+| [Scientific Calculator](https://mitushi-23.github.io/Scientific-Calculator/) | Can perform several calculations  |  
 
 
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mitushi-23&show_icons=true&locale=en&layout=compact&theme=dark" alt="mitushi-23" /></p>
