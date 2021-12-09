@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitushi-23&label=Profile%20views&color=0e75b6&style=flat" alt="mitushi-23" /> </p>
 - 🔭 I’m currently working on enhancing my skills
 
-- 🌱 I’m currently learning **OOPs,DSA,React JS**
+- 🌱 I’m currently learning **Full Stack,DSA**
 
 - 👯 I’m interested in WebD,AI,ML,CP,AppD
 
