@@ -29,6 +29,7 @@
 | [My TextApp](https://mytextapp.netlify.app/) | Helps to convert the text to different cases, copy text and removes extra spaces  |  
 | [NewsApp](https://github.com/Mitushi-23/NewsApp) | Provides the latest news of the society |  
 | [Scientific Calculator](https://mitushi-23.github.io/Scientific-Calculator/) | Can perform several calculations  |  
+| [Microsoft Teams Attendance Automator](https://github.com/Python-ProT/msteams-attendance) | This attendance automator manifests the meeting organizers to easily sort the absentees and presentees according to their scholar number. It also generates attendance of each student in percentage and highlights it if it is less than the threshold value. |  
 
 
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mitushi-23&show_icons=true&locale=en&layout=compact&theme=dark" alt="mitushi-23" /></p>
