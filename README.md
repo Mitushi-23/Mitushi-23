@@ -21,6 +21,7 @@
 | Project Name | Description |
 | ------------- | ------------- |
 | [My Portfolio](https://mitushi-23.github.io/My-portfolio/)  | Portfolio Website |
+| [iNotebook](https://inotebook23.herokuapp.com)  | iNotebook is a MERN Stack application which stores your data safely. |
 | [Tic Tac Toe](https://mitushi-23.github.io/Tic-Tac-Toe/)  | Tic-Tac-Toe Game for Single and Multiplayers  |
 | [BreakOut](https://mitushi-23.github.io/BreakOut/)  | A BreakOut game  |  
 | [Digital Clock](https://digital-timeclock.netlify.app/)  | Can Browse time for any Country |  
