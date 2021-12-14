@@ -25,10 +25,8 @@
 | [Tic Tac Toe](https://mitushi-23.github.io/Tic-Tac-Toe/)  | Tic-Tac-Toe Game for Single and Multiplayers  |
 | [BreakOut](https://mitushi-23.github.io/BreakOut/)  | A BreakOut game  |  
 | [Digital Clock](https://digital-timeclock.netlify.app/)  | Can Browse time for any Country |  
-| [Analog Clock](https://mitushi-23.github.io/Analog-Clock/)  | Shows the time |  
 | [My TextApp](https://mytextapp.netlify.app/) | Helps to convert the text to different cases, copy text and removes extra spaces  |  
 | [NewsApp](https://github.com/Mitushi-23/NewsApp) | Provides the latest news of the society |  
-| [Scientific Calculator](https://mitushi-23.github.io/Scientific-Calculator/) | Can perform several calculations  |  
 | [Microsoft Teams Attendance Automator](https://github.com/Python-ProT/msteams-attendance) | This attendance automator manifests the meeting organizers to easily sort the absentees and presentees according to their scholar number. It also generates attendance of each student in percentage and highlights it if it is less than the threshold value. |  
 
 
