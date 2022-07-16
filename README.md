@@ -6,7 +6,7 @@
 
 - 👯 I’m interested in WebD,AI,ML,CP,AppD
 
-- 👨‍💻 [About Me](https://mitushi-23.github.io/My-portfolio/)
+- 👨‍💻 [About Me](https://mitushi.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 
 | Project Name | Description |
 | ------------- | ------------- |
-| [My Portfolio](https://mitushi-23.github.io/My-portfolio/)  | Portfolio Website |
+| [My Portfolio](https://mitushi.netlify.app/)  | Portfolio Website |
 | [iNotebook](https://inotebook23.herokuapp.com)  | iNotebook is a MERN Stack application which stores your data safely. |
 | [Tic Tac Toe](https://mitushi-23.github.io/Tic-Tac-Toe/)  | Tic-Tac-Toe Game for Single and Multiplayers  |
 | [BreakOut](https://mitushi-23.github.io/BreakOut/)  | A BreakOut game  |  
