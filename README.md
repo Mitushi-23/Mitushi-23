@@ -23,11 +23,6 @@
 | [My Portfolio](https://mitushi.netlify.app/)  | Portfolio Website made using `ReactJS` and `Material UI` |
 | [ShoppieShop](https://shoppieshop.netlify.app/)  | An eCommerce website made using `MERN Stack`.  With this service, customers can search their products by category and add the products to their carts, pay using *PayPal* or *debit cards*, and purchase the items. |
 | [Textify](https://textify-app.netlify.app/) | Textify allows you to modify your text according to your needs. Besides *writing*, you can even *record your text*.The preview section allows you to *copy* or *print* your text by clicking on the copy icon or the print icon respectively. It also counts the words, characters, and minutes spent reading. It uses `ReactJs` and `Material UI`.  |  
-| [iNotebook](https://inotebook23.herokuapp.com)  | iNotebook is a `MERN Stack` application which stores your data safely. |
-| [Tic Tac Toe](https://mitushi-23.github.io/Tic-Tac-Toe/)  | Tic-Tac-Toe Game for Single and Multiplayers  |
-| [BreakOut](https://mitushi-23.github.io/BreakOut/)  | A BreakOut game made using `CANVAS JS`  |  
-| [Digital Clock](https://digital-timeclock.netlify.app/)  | Can Browse time for any Country |  
-| [NewsApp](https://github.com/Mitushi-23/NewsApp) | Provides the latest news of the society |  
 | [Microsoft Teams Attendance Automator](https://github.com/Python-ProT/msteams-attendance) | This attendance automator manifests the meeting organizers to easily sort the absentees and presentees according to their scholar number. It also generates attendance of each student in percentage and highlights it if it is less than the threshold value. |  
 
 
