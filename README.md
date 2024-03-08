@@ -20,9 +20,10 @@
 
 | Project Name | Description |
 | ------------- | ------------- |
-| [My Portfolio](https://mitushi.netlify.app/)  | Portfolio Website made using `ReactJS` and `Material UI` |
-| [ShoppieShop](https://shoppieshop.netlify.app/)  | An eCommerce website made using `MERN Stack`.  With this service, customers can search their products by category and add the products to their carts, pay using *PayPal* or *debit cards*, and purchase the items. |
-| [Textify](https://textify-app.netlify.app/) | Textify allows you to modify your text according to your needs. Besides *writing*, you can even *record your text*.The preview section allows you to *copy* or *print* your text by clicking on the copy icon or the print icon respectively. It also counts the words, characters, and minutes spent reading. It uses `ReactJs` and `Material UI`.  |  
+| [ShoppieShop](https://github.com/Mitushi-23/ShoppieShop-eCommerce-Website)  | An eCommerce website made using `MERN Stack`.  With this service, customers can search their products by category and add the products to their carts, pay using *PayPal* or *debit cards*, and purchase the items. |
+| [BAATचीत](https://github.com/Mitushi-23/BAAT-CHEET)  | BAATचीत is a cross-platform chat application built using `React Native`, `Node.js`, `Express.js` and `MongoDB`. The application provides a seamless chatting experience with features such as *text messaging*, *emojis*, and *image sharing*. It also includes a home page, chat page, and a friend request page for a comprehensive social experience. |
+| [Textify](https://github.com/Mitushi-23/Textify) | Textify allows you to modify your text according to your needs. Besides *writing*, you can even *record your text*.The preview section allows you to *copy* or *print* your text by clicking on the copy icon or the print icon respectively. It also counts the words, characters, and minutes spent reading. It uses `ReactJs` and `Material UI`.  |  
+| [My Portfolio](https://github.com/Mitushi-23/mitushi-23.github.io/tree/newBranch) | Portfolio Website made using `ReactJS` and `Material UI` |
 | [Microsoft Teams Attendance Automator](https://github.com/Python-ProT/msteams-attendance) | This attendance automator manifests the meeting organizers to easily sort the absentees and presentees according to their scholar number. It also generates attendance of each student in percentage and highlights it if it is less than the threshold value. |  
 
 
